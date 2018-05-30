@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "74575908689",
+    "firebase_url": "https://minder-hackathon-2.firebaseio.com",
+    "project_id": "minder-hackathon-2",
+    "storage_bucket": "minder-hackathon-2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:74575908689:android:8b7cebd8badbaa11",
+        "android_client_info": {
+          "package_name": "com.minderapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "74575908689-uvve0c180u5oi6128fblv3ffaa8p5sva.apps.googleusercontent.com",
+          "client_type": 3
+        },
+        {
+          "client_id": "74575908689-uvve0c180u5oi6128fblv3ffaa8p5sva.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDP4r9gvivl9q_qmR6j8nnSrRXrmfBivcg"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
